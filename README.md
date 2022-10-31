@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cgr-coder
+- 🌱 I’m currently learning cross-platform application development
+- 📫 How to reach me: carlosgallego42069@gmail.com
